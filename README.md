@@ -17,6 +17,6 @@ LinearRegressionWithInteractions.ipynb: Load the results of the lasso regression
 
 Interactive Web App:
 
-The app will interactively show how much each senior care center has to improve on key features in order to meet their "target" emplyee turn over rate.
+FeaturePredictionForTurnover_Streamlit.py: A Python script for "Streamlit" Web app. The app will interactively show how much each senior care center has to improve on key features in order to meet their "target" emplyee turn over rate.
 
 For running the Web App, please install “Streamlit” from (https://www.streamlit.io/), and run the file by typing: streamlit run FeaturePredictionForTurnover_Streamlit.py
