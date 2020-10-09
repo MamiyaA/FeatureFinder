@@ -15,5 +15,7 @@ Run_LassoRegression_and_Average.ipynb: Load all the features saved by the notebo
 
 LinearRegressionWithInteractions.ipynb: Load the results of the lasso regression. Choose the top 3 features and run linear regression using these features and their interactions. A model confirms the validity of the features and shows that interactions are not significantly big. Save the results for the use in Streamlit app. 
 
+Interactive Web App:
+The app will interactively show how much each senior care center has to improve on key features in order to meet their "target" emplyee turn over rate.
 
-
+For running the Web App, please install “Streamlit” from (https://www.streamlit.io/), and run the file by typing: streamlit run FeaturePredictionForTurnover_Streamlit.py
